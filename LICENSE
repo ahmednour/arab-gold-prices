@@ -1,0 +1,16 @@
+Our compilation of arab-gold-prices-monthly.csv and the per-gram prices
+computed in it are licensed under the Creative Commons Attribution 4.0
+International License (CC BY 4.0):
+https://creativecommons.org/licenses/by/4.0/
+Attribution: Zahab Today (zahabtoday.com).
+
+The usd_rate column is data of the International Monetary Fund and is NOT
+covered by the licence above. It, and figures computed from it, remain
+subject to the IMF's terms for data:
+https://www.imf.org/en/about/copyright-and-terms
+Required credit: Source: International Monetary Fund, Exchange Rates (ER),
+https://data.imf.org/en/datasets/IMF.STA:ER
+Commercial reuse of IMF data requires the IMF's permission (copyright@imf.org).
+
+The gold price comes from World Bank Commodity Price Data (The Pink Sheet),
+licensed CC BY 4.0. Neither the World Bank nor the IMF endorses this dataset.
